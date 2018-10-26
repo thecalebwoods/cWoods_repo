@@ -1,7 +1,7 @@
 package com.revature.tests.services;
 
 import static org.junit.Assert.assertNotNull;
-import static org.mockito.mock;
+import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
 
 import org.junit.Test;
